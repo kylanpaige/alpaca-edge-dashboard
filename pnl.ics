@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+PRODID:-//alpaca-edge//daily-pnl//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:alpaca-edge P&L (paper)
+BEGIN:VEVENT
+UID:pnl-20260702@alpaca-edge
+DTSTAMP:20260702T000000Z
+DTSTART;VALUE=DATE:20260702
+SUMMARY:alpaca-edge P&L: $99\,922.67 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-02)\nequity: $99\,922.67
+    cash: $90\,979.40\nday change: --\nopen positions: 4\n• META  -$4\,66
+ 4.56  (unrealized +$68.54)\n• NVDA  $4\,861.75  (unrealized -$68.50)\n
+ • QQQ  $4\,279.92  (unrealized -$51.96)\n• SPY  $4\,466.16  (unrealize
+ d -$25.41)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h
+  +0.00%\n_paper account — informational\, not financial advice_
+END:VEVENT
+BEGIN:VEVENT
+UID:pnl-20260703@alpaca-edge
+DTSTAMP:20260703T000000Z
+DTSTART;VALUE=DATE:20260703
+SUMMARY:alpaca-edge P&L: $99\,931.21 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-03)\nequity: $99\,931.21
+    cash: $90\,979.38\nday change: --\nopen positions: 4\n• META  -$4\,66
+ 3.20  (unrealized +$69.90)\n• NVDA  $4\,870.75  (unrealized -$59.50)\n
+ • QQQ  $4\,275.60  (unrealized -$56.28)\n• SPY  $4\,468.68  (unrealize
+ d -$22.89)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h
+  +2.55%\n_paper account — informational\, not financial advice_
+END:VEVENT
+BEGIN:VEVENT
+UID:pnl-20260704@alpaca-edge
+DTSTAMP:20260704T000000Z
+DTSTART;VALUE=DATE:20260704
+SUMMARY:alpaca-edge P&L: $99\,931.21 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-04)\nequity: $99\,931.21
+    cash: $90\,979.38\nday change: --\nopen positions: 4\n• META  -$4\,66
+ 3.20  (unrealized +$69.90)\n• NVDA  $4\,870.75  (unrealized -$59.50)\n
+ • QQQ  $4\,275.60  (unrealized -$56.28)\n• SPY  $4\,468.68  (unrealize
+ d -$22.89)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h
+  +4.25%\n_paper account — informational\, not financial advice_
+END:VEVENT
+BEGIN:VEVENT
+UID:pnl-20260705@alpaca-edge
+DTSTAMP:20260705T000000Z
+DTSTART;VALUE=DATE:20260705
+SUMMARY:alpaca-edge P&L: $99\,931.21 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-05)\nequity: $99\,931.21
+    cash: $90\,979.38\nday change: --\nopen positions: 4\n• META  -$4\,66
+ 3.20  (unrealized +$69.90)\n• NVDA  $4\,870.75  (unrealized -$59.50)\n
+ • QQQ  $4\,275.60  (unrealized -$56.28)\n• SPY  $4\,468.68  (unrealize
+ d -$22.89)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h
+  +5.21%\n_paper account — informational\, not financial advice_
+END:VEVENT
+BEGIN:VEVENT
+UID:pnl-20260706@alpaca-edge
+DTSTAMP:20260706T000000Z
+DTSTART;VALUE=DATE:20260706
+SUMMARY:alpaca-edge P&L: $99\,905.68 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-06)\nequity: $99\,905.68
+    cash: $90\,979.38\nday change: --\nopen positions: 4\n• META  -$4\,80
+ 2.40  (unrealized -$69.30)\n• NVDA  $4\,882.00  (unrealized -$48.25)\n
+ • QQQ  $4\,336.68  (unrealized +$4.80)\n• SPY  $4\,510.02  (unrealized
+  +$18.45)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h 
+ +6.05%\n_paper account — informational\, not financial advice_
+END:VEVENT
+BEGIN:VEVENT
+UID:pnl-20260707@alpaca-edge
+DTSTAMP:20260707T000000Z
+DTSTART;VALUE=DATE:20260707
+SUMMARY:alpaca-edge P&L: $99\,719.44 (--)
+DESCRIPTION:**alpaca-edge — daily P&L** (2026-07-07)\nequity: $99\,719.44
+    cash: $90\,979.38\nday change: --\nopen positions: 4\n• META  -$4\,92
+ 0.24  (unrealized -$187.14)\n• NVDA  $4\,915.00  (unrealized -$15.25)\n
+ • QQQ  $4\,260.48  (unrealized -$71.40)\n• SPY  $4\,484.82  (unrealize
+ d -$6.75)\nforward-paper [donchian BTC/USD]: FLAT — track +0.00% vs b&h 
+ +6.76%\n_paper account — informational\, not financial advice_
+END:VEVENT
+END:VCALENDAR
